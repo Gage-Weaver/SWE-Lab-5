@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#define MONTHS 12 //define amount of months as 12
+#define MONTHS 12 
 
 const char *month_names[] = { //make an array with the month names
     "January", "February", "March", "April", "May", "June",
